@@ -6,6 +6,9 @@ Demonstration of table data sorting in vanilla JavaScript.
 * Click on table headers to sort (ascending/descending).
 * Click on any row of the table to instantly remove it from the list.
 
+### Online demo
+https://amarok24.github.io/table-sort/src/
+
 ***
 
 <details>
