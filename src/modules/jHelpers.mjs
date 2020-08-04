@@ -1,5 +1,5 @@
 ﻿/**
-  * @description A colletion of useful functions (mostly pure functions).
+  * @description A collection of useful functions (mostly pure functions).
   * @version 0.11
   * @author Jan Prazak
   * @website https://github.com/Amarok24/
